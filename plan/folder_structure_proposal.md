@@ -28,7 +28,7 @@ front/findmypet/src/
 ├── layouts/                // 페이지 레이아웃 (MainLayout 등)
 │   └── MainLayout.jsx
 ├── pages/                  // 최상위 페이지 컴포넌트
-│   ├── HomePage.jsx
+│   ├── MainPage.jsx
 │   ├── auth/               // 인증/회원관리 관련 페이지 (로그인, 회원가입)
 │   │   ├── LoginPage.jsx
 │   │   └── RegisterPage.jsx

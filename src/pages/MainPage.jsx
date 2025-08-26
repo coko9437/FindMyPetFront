@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const HomePage = () => {
+const MainPage = () => {
   return (
     <section id="home" className="home-section">
       <div className="home-content">
@@ -27,4 +27,4 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
+export default MainPage;
